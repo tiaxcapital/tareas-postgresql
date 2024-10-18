@@ -1,5 +1,5 @@
 #modules
-/node_modules/
+node_modules/
 #archivos
 package-lock.json
 #entorno
