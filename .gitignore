@@ -1,6 +1,6 @@
-#node dependencies
-node_modules/
+#modules
+/node_modules/
+#archivos
 package-lock.json
-#variables de entorno
+#entorno
 .env
-
