@@ -1,6 +1,6 @@
 const express=require('express')
 const router=express.Router()
-const taskController=require("../controllers/taskController")
+const taskController=require("../controllers/taskcontroller")
 const { body,param,validationResult }=require("express-validator")
 //parametros para validar cuerpo
 const validateBodyTask=[
